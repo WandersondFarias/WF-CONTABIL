@@ -2,7 +2,6 @@
 
 <img src="./foto.png" width="450px" alt="SL Landing Page">
 
->  The landing page was made with my mentor Rodolfo Mori, which was mentored by Youtube.
 
 ## 🚀 Technologies
 
