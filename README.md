@@ -1,10 +1,8 @@
-# SL Landing Page
+# WF Landing Page
 
-<img src="./image.png" width="450px" alt="SL Landing Page">
+<img src="./foto.png" width="450px" alt="SL Landing Page">
 
 >  The landing page was made with my mentor Rodolfo Mori, which was mentored by Youtube.
-
-Confira a aplicação:https://github.com/wandersondefariasprogramador/LandingPage-SL/
 
 ## 🚀 Technologies
 
@@ -22,7 +20,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do wanderson de farias no GitHub"/><br>
+        <img src="./foto.jpg" width="100px;" alt="Foto do wanderson de farias no GitHub"/><br>
         <sub>
           <b>wanderson de farias</b>
         </sub>
@@ -30,6 +28,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
+
+ check application <a href="https://wandersondefariasprogramador.github.io/SITE-RESTAURANTE-2/">HERE!</a>
 
 ## 📝 Licença
 
