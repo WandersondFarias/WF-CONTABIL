@@ -5,6 +5,11 @@
         box-sizing: border-box;
         font-family: 'Montserrat', sans-serif;
     }
+
+    @media screen and (max-width: 500px){
+    
+}
+
     
     html{
         scroll-behavior: smooth;
